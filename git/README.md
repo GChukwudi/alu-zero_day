@@ -1,1 +1,2 @@
-Another Markdown file
+Git Project
+Author: GChukwudi
